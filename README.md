@@ -28,7 +28,7 @@ Me motiva la resolución de problemas, la mejora continua y el aprendizaje const
 ---
 
 ## Contacto 
-- **Portafolio / Web personal:** [https://bjean.dev/] *(en desarrollo)*  
+- **Portafolio / Web personal:** [bjean.dev](https://bjean.dev/) *(en desarrollo)*  
 
 ---
 
